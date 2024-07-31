@@ -1,0 +1,11 @@
+creat the repopath
+
+$ git clone repopath
+
+copy repopath from github.com
+$ git pull
+
+
+copy to github.com
+
+$ git push
