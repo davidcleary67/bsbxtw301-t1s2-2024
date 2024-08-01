@@ -1,19 +1,19 @@
-# Level name
+# Shallows
 
-This level shows the interior of the spaceship where conflict will take plac 
+This level is the starting point of the game. Presented will be a shallow body of water  with a run down base the main character, Stefan will need to rebuild
 
-## background
+## Background: Beachhead
 
-the background image shows a spaceship interior
+The background image will be a beachhead, with a small amount of land with a body of shallow water beside it. The land will have  a small run down building on it and the body of water will contain a turtle
 
 ### Characters
 
-- fish
-- alien fish
-- main character (m/f)
+- turtle
+- 3 headed squid (boss)
+- main character, stefan
 
 ### Objects
 
-- weapon1
-- gearsuit
-- shotprojectile
+- Run down base on shoreline
+- Birds
+- Seashells
