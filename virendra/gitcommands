@@ -1,0 +1,21 @@
+Create the repo from github.com
+
+$ git clone repopath
+
+copy repo content from github.com
+
+$ git pull
+
+copy to github.com
+
+$ git push
+
+Move file to staging area
+
+$git add -A
+
+check current git status
+
+@ git Status
+
+commit -m "a message goes here"

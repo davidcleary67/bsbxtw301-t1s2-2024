@@ -6,7 +6,7 @@ BSBXTW301 Work in a team - Assessment task 2 - Team 1
 
 - Corey Fr
 - Brady
-- Chad
+- Chad (to do)
 - Patrick P
-- Jake
+- Jake (to do)
 - Virendra
