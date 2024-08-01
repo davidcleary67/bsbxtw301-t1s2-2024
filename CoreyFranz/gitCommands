@@ -1,0 +1,21 @@
+git commands
+
+$ git clone [repo]
+eg:
+$ git clone bsbxtw301-t1s2-2024
+
+
+Copy repo content from github
+$ git pull
+
+copy to github
+$ git push
+
+moves files to the staging area
+$ git add -A
+
+Check current git status
+$ git status
+
+Commit files in staging to be updated
+$ git commit -m "a message goes here"
